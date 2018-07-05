@@ -1,0 +1,6 @@
+<note>
+    <title>{}</title>
+    <content>
+        <![CDATA[<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note><div>{}</div></en-note>]]>
+    </content>
+</note>
